@@ -1,0 +1,32 @@
+# 30-Day JavaScript Challenge Checklist
+
+- Day 1: Variables & Data Types - Declare variables of all primitive types and log them.
+- Day 2: Operators - Use arithmetic, comparison, and logical operators in expressions.
+- Day 3: Conditionals - Write a function that returns 'Even' or 'Odd' for a number.
+- Day 4: Loops - Print numbers 1–10 using `for`, `while`, and `do...while`.
+- Day 5: Functions - Create a function that reverses a string.
+- Day 6: Arrays - Write a function to find the max number in an array.
+- Day 7: Objects - Create an object for a book with title, author, and year.
+- Day 8: Array Methods - Use `map`, `filter`, and `reduce` on a sample array.
+- Day 9: String Methods - Count vowels in a string using string methods.
+- Day 10: Scope - Demonstrate block vs function scope with `let`, `var`, `const`.
+- Day 11: Hoisting - Show how hoisting works with variables and functions.
+- Day 12: Closures - Create a closure that remembers a counter value.
+- Day 13: Callbacks - Write a function that takes a callback and executes it.
+- Day 14: Promises - Create a simple promise that resolves after 2 seconds.
+- Day 15: Async/Await - Rewrite the promise using `async/await`.
+- Day 16: DOM Basics - Select an element and change its text content.
+- Day 17: Events - Add a click event to a button that logs a message.
+- Day 18: Timers - Use `setTimeout` and `setInterval` to log messages.
+- Day 19: JSON - Convert an object to JSON and back.
+- Day 20: Error Handling - Use `try...catch` to handle a parsing error.
+- Day 21: Destructuring - Destructure an object and array into variables.
+- Day 22: Spread & Rest - Use spread to merge arrays and rest in a function.
+- Day 23: Template Literals - Create a greeting using template literals.
+- Day 24: Array Sorting - Sort an array of numbers and strings.
+- Day 25: Date & Time - Display current date and format it.
+- Day 26: Local Storage - Store and retrieve a value from `localStorage`.
+- Day 27: ES6 Classes - Create a class `Person` with a method `greet()`.
+- Day 28: Inheritance - Extend `Person` to `Employee` with extra properties.
+- Day 29: Modules (basic) - Use `export` and `import` in two JS files.
+- Day 30: Mini Project - Build a simple to-do list in plain JS (no frameworks).
