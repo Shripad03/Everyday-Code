@@ -1,0 +1,22 @@
+// Loops - Print numbers 1–10 using 
+
+function printLoops() {
+    for (var i = 0; i < 11; i++) {
+        setTimeout(() => {
+            console.log(i);
+        }, 1000);
+    }
+}
+
+
+function whileLoop(num) {
+    count = 1;
+    while(num > count) {
+        console.log(count);
+        count++
+    }
+}
+
+printLoops();
+whileLoop(11)
+
